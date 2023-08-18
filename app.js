@@ -1,0 +1,1 @@
+refreshcapcha (click.refreshcapcha)
